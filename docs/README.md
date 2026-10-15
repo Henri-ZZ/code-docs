@@ -4,7 +4,7 @@ title: 关于
 
 ## 是谁写的？
 
-本人是一名`前端开发工程师`，位于上海。欲了解更多可以访问我的[个人网站](https://studio.henri.ren)哦。
+本人是一名`前端开发工程师`，位于上海。欲了解更多可以访问我的[个人网站](https://henriz.dev)哦。
 
 ## 这是什么文档？
 
@@ -27,4 +27,4 @@ title: 关于
 
 下面是本人邮箱。
 
-henrizhang@henri.ren
+henri@henriz.dev
